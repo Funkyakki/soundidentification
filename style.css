@@ -1,0 +1,42 @@
+body 
+{
+    font-family: 'Cinzel Decorative', cursive;
+    background:#e6c5e8;
+}
+
+.header_div
+{
+    background-color: #a07fa3;
+    color: #441d47;
+}
+
+.header_div p
+{   
+    font-family: 'Phudu', cursive;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Happy Monkey', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #8a547f;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #a07fa3;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb (222, 164, 210);
+}
